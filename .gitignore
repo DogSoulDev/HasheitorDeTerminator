@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Archivos de salida
+*_plain.txt
+*_sha256.txt
+*_sha256_var.txt
