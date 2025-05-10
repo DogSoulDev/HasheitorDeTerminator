@@ -129,4 +129,4 @@ SALT_FIJO = "123qwesd"  # Cambia por tu salt
 
 ## 👥 Autor
 
-Desarrollado para el Trabajo 2 de la asignatura
+DogSoulDev
